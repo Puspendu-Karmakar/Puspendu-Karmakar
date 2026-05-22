@@ -8,8 +8,9 @@ Retired footballer. Idolises the great Polish Striker - Robert Lewandowski.\
 Good in Pastel Art.
 
 Completed almost all of Marvel movies and shows as of May 2026.\
-Currently watching anime. First anime that i was introduced to - One Punch Man (Season 3 was a disaster).\
-Animes that i have watched 
+Currently watching anime. First anime that i was introduced to - One Punch Man (Season 3 was a disaster).
+
+Animes that i have watched- 
 + One Punch Man
 + Demon Slayer
 + Sakamoto Days
