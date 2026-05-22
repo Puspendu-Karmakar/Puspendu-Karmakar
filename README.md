@@ -1,16 +1,19 @@
-## Hi there 👋
+I am Puspendu Karmakar, Pre-Final Year Undergrad in Mechanical Engineering.
 
-<!--
-**Puspendu-Karmakar/Puspendu-Karmakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working in the field of Computational Fluid Dynamics using FEM and FVM.
+Using software - FEniCSx. 
+Documenting the work in LATEX.
 
-Here are some ideas to get you started:
+Retired footballer. Idolises the great Polish Striker - Robert Lewandowski.
+Good in Pastel Art.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Completed almost all of Marvel movies and shows as of May 2026. 
+Currently watching anime. First anime that i was introduced to - One Punch Man (Season 3 was a disaster).
+Animes that i have watched -  One Punch Man
+                              Demon Slayer
+                              Sakamoto Days
+                              Scissor Seven
+                              Hell's Paradise
+                              Jujutsu Kaisen (currently watching Season 2 Shibuya Arc)
+
+Using GitHub as a Blog site. 🙂                           
