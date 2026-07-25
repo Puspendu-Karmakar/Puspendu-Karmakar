@@ -10,4 +10,4 @@ Good at Pastel Art.
 Completed almost all of Marvel movies and shows as of May 2026.\
 Currently watching anime. First anime that i was introduced to - One Punch Man.
 
-Using GitHub as a Blog site. 🙂                           
+🙂                           
